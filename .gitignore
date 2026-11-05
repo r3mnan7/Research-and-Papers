@@ -1,0 +1,21 @@
+# CIS Controls are CC BY-NC-ND 4.0; see "AI Risks and FUD/Control Catalogs/CIS Note.md"
+AI Risks and FUD/Control Catalogs/CIS Controls*
+
+# Working files, notes to self, and superseded drafts
+AI Risks and FUD/Control Catalogs/_tmp_*
+AI Risks and FUD/*(backup *
+AI Risks and FUD/*(original).md
+AI Risks and FUD/_to_delete_*
+AI Risks and FUD/.rq4work/
+AI Risks and FUD/_To-Do.md
+
+# Full copies of third-party pages; cite these by URL in Sources.md
+AI Risks and FUD/RQ4 source pulls/
+
+# Local tool and system files
+.DS_Store
+.claude/
+.obsidian/
+.trash/
+AGENTS.md
+*.icloud
