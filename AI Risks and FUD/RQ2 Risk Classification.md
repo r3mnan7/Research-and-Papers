@@ -1,3 +1,7 @@
+---
+tags: [ai-fud-whitepaper]
+aliases: [RQ2]
+---
 # RQ2 Risk Classification
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]]

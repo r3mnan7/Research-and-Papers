@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # NIST SP 800-63-4 Normative Requirements Extraction
 
 Built with AI assistance on November 4, 2026 from the primary source: the HTML edition of NIST SP 800-63-4, 800-63A-4, 800-63B-4, and 800-63C-4 (final, July 2025) at https://pages.nist.gov/800-63-4/ [18].

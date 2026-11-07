@@ -1,3 +1,7 @@
+---
+tags: [ai-fud-whitepaper]
+aliases: [RQ3]
+---
 # RQ3 Control Coverage
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]]

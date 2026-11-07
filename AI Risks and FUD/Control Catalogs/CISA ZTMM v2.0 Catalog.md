@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # CISA Zero Trust Maturity Model v2.0 Catalog
 
 Built with AI assistance on November 4, 2026 from the primary source: CISA, *Zero Trust Maturity Model*, Version 2.0, April 2023 (TLP:CLEAR) [16], read from the CISA PDF. Extraction method: text with page coordinates taken from the PDF in the browser pane, column positions read from each page's own `Function | Traditional | Initial | Advanced | Optimal` header row, rows rebuilt from the function labels; footnotes and surrounding prose removed. Spot checks against the PDF: Authentication (p. 13), Networks Governance (p. 22), cross-cutting Governance (pp. 29–30). Five function names that the PDF breaks across a footnote marker were completed by hand (Device Threat Protection, Traffic Encryption, Application Threat Protections, Secure Application Development and Deployment Workflow, and one Visibility and Analytics Capability label).

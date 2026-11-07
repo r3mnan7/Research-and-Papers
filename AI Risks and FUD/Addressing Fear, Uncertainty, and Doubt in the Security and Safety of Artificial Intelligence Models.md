@@ -1,3 +1,7 @@
+---
+tags: [ai-fud-whitepaper]
+aliases: [AI FUD paper, main note]
+---
 
 
 > [!note] Drafting and review
