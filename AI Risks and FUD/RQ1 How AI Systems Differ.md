@@ -1,3 +1,7 @@
+---
+tags: [ai-fud-whitepaper]
+aliases: [RQ1]
+---
 # RQ1 How AI Systems Differ
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]]

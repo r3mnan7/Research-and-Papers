@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # NIST SP 800-53 Rev. 5 — Control Catalog
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]] · [[RQ3 Control Coverage]] · [[RQ3.1 Minimum Control Set]]

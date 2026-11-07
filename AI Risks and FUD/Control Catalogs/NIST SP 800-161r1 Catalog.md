@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # NIST SP 800-161r1 — C-SCRM Supplemental Guidance Catalog (Appendix A)
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]] · [[RQ3 Control Coverage]] · [[RQ3.1 Minimum Control Set]]

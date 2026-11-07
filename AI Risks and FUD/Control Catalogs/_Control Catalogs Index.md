@@ -1,3 +1,7 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+aliases: [Control Catalogs]
+---
 # Control Catalogs
 
 Index with AI assistance, November 4, 2026. These are the seven general-purpose frameworks RQ3 tests, pulled from primary sources into one table each so that any `53:` / `CIS:` / `ASVS:` / `CSF:` / `ZTMM:` / `63:` / `161:` citation in [[RQ3 Control Coverage]] or [[RQ3.1 Minimum Control Set]] can be checked against the framework's own text without opening the PDF. Extraneous text (introductions, discussion, references, appendices other than the control text itself) is removed; the control text is verbatim apart from extraction cleanup and layout. The CIS catalog stays in the author's vault and out of the public repository; see [[CIS Note]].

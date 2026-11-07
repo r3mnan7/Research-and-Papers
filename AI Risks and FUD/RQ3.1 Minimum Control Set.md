@@ -1,3 +1,7 @@
+---
+tags: [ai-fud-whitepaper]
+aliases: ['RQ3.1']
+---
 # RQ3.1 Minimum Control Set
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]] · [[RQ3 Control Coverage]]

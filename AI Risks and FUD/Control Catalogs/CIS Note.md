@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # CIS Controls: Version Used and Where to Get It
 
 This research uses the CIS Critical Security Controls, but this repository does not include the CIS safeguard catalog. The CIS Controls are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode), which limits how they can be shared and does not allow distributing modified versions. The catalog used in this research restructures the safeguard text, so it is not published here.

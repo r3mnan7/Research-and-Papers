@@ -1,3 +1,6 @@
+---
+tags: [control-catalog, ai-fud-whitepaper]
+---
 # OWASP ASVS 5.0.0 — Requirement Catalog
 
 Back to [[Addressing Fear, Uncertainty, and Doubt in the Security and Safety of Artificial Intelligence Models|main note]] · [[RQ3 Control Coverage]] · [[RQ3.1 Minimum Control Set]]
